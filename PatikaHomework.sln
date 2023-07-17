@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive_Extension", "Recu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm_Questions", "Algorithm_Questions\Algorithm_Questions.csproj", "{95BE6FEC-6948-4825-BA9D-D1A9B7BB2658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringMethods", "StringMethods\StringMethods.csproj", "{34EB4EE0-E052-4536-9588-5E9CFE4BB5E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{95BE6FEC-6948-4825-BA9D-D1A9B7BB2658}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95BE6FEC-6948-4825-BA9D-D1A9B7BB2658}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95BE6FEC-6948-4825-BA9D-D1A9B7BB2658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34EB4EE0-E052-4536-9588-5E9CFE4BB5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34EB4EE0-E052-4536-9588-5E9CFE4BB5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34EB4EE0-E052-4536-9588-5E9CFE4BB5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34EB4EE0-E052-4536-9588-5E9CFE4BB5E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
