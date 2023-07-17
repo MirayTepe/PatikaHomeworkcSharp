@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileForeach", "WhileForeac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysDemo", "ArraysDemo\ArraysDemo.csproj", "{84AF3EEC-C127-406F-8CCC-5B8C2A0972E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMethodsDemo", "ArrayMethods\ArrayMethodsDemo.csproj", "{0C6AB9C6-D877-4AC9-B93C-8A07DD37E386}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayMethodsDemo", "ArrayMethods\ArrayMethodsDemo.csproj", "{0C6AB9C6-D877-4AC9-B93C-8A07DD37E386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefineMethod", "DefineMethod\DefineMethod.csproj", "{957E6503-33CE-4AD6-B0E7-5A9DDB95CE34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0C6AB9C6-D877-4AC9-B93C-8A07DD37E386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C6AB9C6-D877-4AC9-B93C-8A07DD37E386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C6AB9C6-D877-4AC9-B93C-8A07DD37E386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{957E6503-33CE-4AD6-B0E7-5A9DDB95CE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957E6503-33CE-4AD6-B0E7-5A9DDB95CE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957E6503-33CE-4AD6-B0E7-5A9DDB95CE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957E6503-33CE-4AD6-B0E7-5A9DDB95CE34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
