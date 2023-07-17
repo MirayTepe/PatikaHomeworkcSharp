@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefineMethod", "DefineMetho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods_Overloading", "Methods_Overloading\Methods_Overloading.csproj", "{6E4A404B-3017-44AD-B11E-57805720CF15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive_Extension", "Recursive_Extension\Recursive_Extension.csproj", "{1D54789D-722E-44B4-ADF3-D76007E33913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{6E4A404B-3017-44AD-B11E-57805720CF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E4A404B-3017-44AD-B11E-57805720CF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E4A404B-3017-44AD-B11E-57805720CF15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D54789D-722E-44B4-ADF3-D76007E33913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D54789D-722E-44B4-ADF3-D76007E33913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D54789D-722E-44B4-ADF3-D76007E33913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D54789D-722E-44B4-ADF3-D76007E33913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
