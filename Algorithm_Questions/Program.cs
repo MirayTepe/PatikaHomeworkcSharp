@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Array_Questions
+namespace StringMethods
 {
     class Program
     {
