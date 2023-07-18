@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math_Datetim_Methods", "Mat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCollection_List", "GenericCollection_List\GenericCollection_List.csproj", "{F916952D-A6F7-40A4-A19A-6798FF4FA175}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_ListDemo", "Array_ListDemo\Array_ListDemo.csproj", "{72BBA944-F1CB-464C-8C6E-9FC4781DE818}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{F916952D-A6F7-40A4-A19A-6798FF4FA175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F916952D-A6F7-40A4-A19A-6798FF4FA175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F916952D-A6F7-40A4-A19A-6798FF4FA175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72BBA944-F1CB-464C-8C6E-9FC4781DE818}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BBA944-F1CB-464C-8C6E-9FC4781DE818}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BBA944-F1CB-464C-8C6E-9FC4781DE818}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BBA944-F1CB-464C-8C6E-9FC4781DE818}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
