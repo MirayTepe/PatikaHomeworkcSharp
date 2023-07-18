@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-namespace Array_List
+namespace Array_ListDemo
 {
     public class Program
     {
