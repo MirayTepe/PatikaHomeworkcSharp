@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersConstructor"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationProperty", "EncapsulationProperty\EncapsulationProperty.csproj", "{CFF44ABF-9C5D-4B28-A651-41CF3DA996AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassMember", "StaticClassMember\StaticClassMember.csproj", "{8766FB92-C501-4AF0-AB95-447CB0A68E09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{CFF44ABF-9C5D-4B28-A651-41CF3DA996AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF44ABF-9C5D-4B28-A651-41CF3DA996AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF44ABF-9C5D-4B28-A651-41CF3DA996AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8766FB92-C501-4AF0-AB95-447CB0A68E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8766FB92-C501-4AF0-AB95-447CB0A68E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8766FB92-C501-4AF0-AB95-447CB0A68E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8766FB92-C501-4AF0-AB95-447CB0A68E09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
