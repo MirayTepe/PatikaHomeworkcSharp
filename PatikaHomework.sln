@@ -39,15 +39,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericCollection_List", "G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array_ListDemo", "Array_ListDemo\Array_ListDemo.csproj", "{72BBA944-F1CB-464C-8C6E-9FC4781DE818}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{94A0B13E-CBB3-4998-BA9B-F71C822BE77A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2", "Homework2\Homework2.csproj", "{94A0B13E-CBB3-4998-BA9B-F71C822BE77A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemo", "ClassDemo\ClassDemo.csproj", "{4B410E1B-8F95-481E-96E9-235FD5F1C840}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassDemo", "ClassDemo\ClassDemo.csproj", "{4B410E1B-8F95-481E-96E9-235FD5F1C840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersConstructor", "AccessModifiersConstructor\AccessModifiersConstructor.csproj", "{1169A064-B744-477F-9EB9-2B9411682F4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersConstructor", "AccessModifiersConstructor\AccessModifiersConstructor.csproj", "{1169A064-B744-477F-9EB9-2B9411682F4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncapsulationProperty", "EncapsulationProperty\EncapsulationProperty.csproj", "{CFF44ABF-9C5D-4B28-A651-41CF3DA996AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncapsulationProperty", "EncapsulationProperty\EncapsulationProperty.csproj", "{CFF44ABF-9C5D-4B28-A651-41CF3DA996AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassMember", "StaticClassMember\StaticClassMember.csproj", "{8766FB92-C501-4AF0-AB95-447CB0A68E09}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticClassMember", "StaticClassMember\StaticClassMember.csproj", "{8766FB92-C501-4AF0-AB95-447CB0A68E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumDemo", "EnumDemo\EnumDemo.csproj", "{D1FD5E16-EFC3-44C3-B576-1E353FCECEC3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{8766FB92-C501-4AF0-AB95-447CB0A68E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8766FB92-C501-4AF0-AB95-447CB0A68E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8766FB92-C501-4AF0-AB95-447CB0A68E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FD5E16-EFC3-44C3-B576-1E353FCECEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FD5E16-EFC3-44C3-B576-1E353FCECEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FD5E16-EFC3-44C3-B576-1E353FCECEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FD5E16-EFC3-44C3-B576-1E353FCECEC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
