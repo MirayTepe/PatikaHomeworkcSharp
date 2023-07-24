@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumDemo", "EnumDemo\EnumDe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhoneBook", "PhoneBook\PhoneBook.csproj", "{49888482-D0F1-444E-A45C-0AA40557AA8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApplication", "ToDoApplication\ToDoApplication.csproj", "{CA68FD00-2BBA-4541-8572-3F6B853D2753}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApplication", "ToDoApplication\ToDoApplication.csproj", "{CA68FD00-2BBA-4541-8572-3F6B853D2753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciCalculator", "FibonacciCalculator\FibonacciCalculator.csproj", "{1B9DDD8D-D2FD-48AA-BB5E-9CEC86C83B0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{CA68FD00-2BBA-4541-8572-3F6B853D2753}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA68FD00-2BBA-4541-8572-3F6B853D2753}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA68FD00-2BBA-4541-8572-3F6B853D2753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9DDD8D-D2FD-48AA-BB5E-9CEC86C83B0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9DDD8D-D2FD-48AA-BB5E-9CEC86C83B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9DDD8D-D2FD-48AA-BB5E-9CEC86C83B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9DDD8D-D2FD-48AA-BB5E-9CEC86C83B0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
