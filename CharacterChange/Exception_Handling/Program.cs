@@ -10,7 +10,7 @@ namespace Exception_Handling
     {
         static void Main(string[] args)
         {
-
+            
             // try { Hataya sebebiyet verme ihtimali olan kod }
             // catch { Hata ile karşılaşıldığında ne yapılacağı buraya yazılır }
             // finally { Hata olsun olmasın mutlaka yapılmasını istediğimiz işler varsa buraya yazarız }

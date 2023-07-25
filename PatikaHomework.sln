@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "Exception_Handling\ExceptionHandling.csproj", "{2446B375-2B37-4A67-98B4-11BBBD57A1F4}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables_and_DataTypes", "Variables_and_DataTypes\Variables_and_DataTypes.csproj", "{8820C4D5-B594-4C7C-82C4-EC5B7EC7D41D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Type_Conversations", "Type_Conversations\Type_Conversations.csproj", "{FC225BB0-E5DC-4449-A2A0-0D8BA743A6E5}"
@@ -69,11 +67,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShapeCalculator", "ShapeCal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumOfIntegerPair", "SumOfIntegerPair\SumOfIntegerPair.csproj", "{5AFDCF9D-CF0F-4E85-BBAD-64D456C95779}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteSquare", "AbsoluteSquare\AbsoluteSquare.csproj", "{56089767-BDB3-415C-B218-953DDE90F9C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbsoluteSquare", "AbsoluteSquare\AbsoluteSquare.csproj", "{56089767-BDB3-415C-B218-953DDE90F9C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterChange", "CharacterChange\CharacterChange.csproj", "{6D81E316-2540-4C9B-A705-4D5F18F1C304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterChange", "CharacterChange\CharacterChange.csproj", "{6D81E316-2540-4C9B-A705-4D5F18F1C304}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consonant", "Consonant\Consonant.csproj", "{65333424-5631-41DF-973B-14411B5BBEB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consonant", "Consonant\Consonant.csproj", "{65333424-5631-41DF-973B-14411B5BBEB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingApp", "VotingApp\VotingApp.csproj", "{EBC9F3C6-A2C9-4E00-8779-34A71581EE60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AtmApp", "AtmApp\AtmApp.csproj", "{20E55052-8754-44A0-B395-E0D1DDDAF0B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarkodReader", "BarkodReader\BarkodReader.csproj", "{103A5C59-F3F9-4F2F-BDD5-B1620484957C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception_Handling", "Exception_Handling\Exception_Handling.csproj", "{541D8489-8510-492B-A340-772CF861577A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,10 +87,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2446B375-2B37-4A67-98B4-11BBBD57A1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2446B375-2B37-4A67-98B4-11BBBD57A1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2446B375-2B37-4A67-98B4-11BBBD57A1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2446B375-2B37-4A67-98B4-11BBBD57A1F4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8820C4D5-B594-4C7C-82C4-EC5B7EC7D41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8820C4D5-B594-4C7C-82C4-EC5B7EC7D41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8820C4D5-B594-4C7C-82C4-EC5B7EC7D41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -225,6 +227,22 @@ Global
 		{65333424-5631-41DF-973B-14411B5BBEB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65333424-5631-41DF-973B-14411B5BBEB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65333424-5631-41DF-973B-14411B5BBEB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC9F3C6-A2C9-4E00-8779-34A71581EE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC9F3C6-A2C9-4E00-8779-34A71581EE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC9F3C6-A2C9-4E00-8779-34A71581EE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC9F3C6-A2C9-4E00-8779-34A71581EE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20E55052-8754-44A0-B395-E0D1DDDAF0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E55052-8754-44A0-B395-E0D1DDDAF0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E55052-8754-44A0-B395-E0D1DDDAF0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E55052-8754-44A0-B395-E0D1DDDAF0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{103A5C59-F3F9-4F2F-BDD5-B1620484957C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{103A5C59-F3F9-4F2F-BDD5-B1620484957C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{103A5C59-F3F9-4F2F-BDD5-B1620484957C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{103A5C59-F3F9-4F2F-BDD5-B1620484957C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541D8489-8510-492B-A340-772CF861577A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541D8489-8510-492B-A340-772CF861577A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541D8489-8510-492B-A340-772CF861577A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541D8489-8510-492B-A340-772CF861577A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
